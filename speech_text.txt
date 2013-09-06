@@ -1,0 +1,77 @@
+Hi I'm Brian Abelson, I'm a OpenNews Fellow at the New York Times and I'm gonna talk a bit about a project I've been working on the last couple of months, but first I'm gonna talk more generally about what metrics are for, the effects they have, and what that means in the context of the news industry.
+
+------------------------------------------------------------------
+
+So this inquisitive looking white dude is James Watt and he's somewhat erroneously known for inventing the steam engine.  That's actually not true: he just added a small condensor to the existing steam engine which made it dramatically more efficient. Anyways, Watt had a problem when it came time to sell his new machine. There were plenty of ways to measure how one steam engine compared with another, but there wasn't a good way to compare the power of a steam engine with less technologically-sophisticated alternatives.
+
+------------------------------------------------------------------
+
+So Watt came up with Horsepower, which was based on this simple estimation of an average horse's strength, and he used it to make the utility of his machine more marketable. The great irony here though was that Watt's main innovation was increasing the efficiency of the steam engine, not simply its overall power. Ultimarely, he made a trade-off between the degree to which his metric reflected reality and the degree to which it could be interpreted by a lay-person.  In the end, he assumed that people would take the price of coal into account, and therefore make their decisions according to two metrics: resources expended and power generated.
+
+------------------------------------------------------------------
+
+Almost 250 years later, Horsepower is still being used to sell engines.  The problem, however, is that over time - as the cost of extracting and shipping resources around the world plummeted - the calculation of horsepower remained the same.  One thus wonders how different the world might look if Watt had added a simple denominator that accounted for the resources required to generate a given amount of force. In other words, what if American auto-culture had been focused on selling efficiency and not horespower?
+
+------------------------------------------------------------------
+
+Here, we begin to see what metrics are for and the effects they have over time.  Metrics are about communicating complex concepts in interpretable and actionable terms. But when they're widely adopted - when industries seek to optimize their activities for a given metric - they cease to be a mere reflection of reality.  Instead, they come to actively shape the industry, oftentimes leading to unforeseen externalities. So the American auto-industry's choice to optimize for power came at the expense of increased C02 emissions; incentivizing professional baseball players to hit more home runs led to the widespread use of steroids.  And the United States' choice of the Electoral College as a measurment for democractic consensus, rather than the popular vote, led in part to this guy.
+
+------------------------------------------------------------------
+
+So what does all this mean in the context of the news industry? Well currently, the dominant metric is page views - which in many ways is the digitial equivalent to its analog predecessor: circulation size. So just as Watt used horsepower as a metaphor for the power of his steam engine, media organizations use pageviews as a proxy for their overall reach.  They've done this in part because page views are easy to measure and easy to compare across news outlets. However, the landscape has changed and earning money in a news organization is no longer a mere function of audience size. That being said, it hasn't stopped media companies from optimizing their activities to maximize this metric. And if you need examples of the externalities of this decision, just look at:
+
+------------------------------------------------------------------
+
+this and
+
+------------------------------------------------------------------
+
+this
+
+------------------------------------------------------------------
+
+### So how do we construct an alternative?
+* A good metric should:  
+  - Reflect an organization's well-defined goal(s).
+  - Be widely applicable.
+  - Provide actionable intellgence while remaining interpretable.
+  - Minimize externalities.
+  - Also, read: stdout.be/68
+
+------------------------------------------------------------------
+
+### Pageviews Above Replacement - PAR
+1. Editors and Journalists constantly ask "How did it do"?
+2. Raw numbers don't account for the promotion a story recieves.
+3. By placing pageviews alongside promotional data (Twitter, Facebook, Homepage, Emails, etc), we can put these numbers in context, and make more meaningful comparisons.
+
+------------------------------------------------------------------
+
+###### Promotion vs. Performance
+# ![PAR1](img/PAR1.png)
+
+------------------------------------------------------------------
+
+##### Predicting Pageviews
+# ![predictions](img/predictions.gif)
+
+------------------------------------------------------------------
+
+##### Potential externalities
+* In my initial tests, "viral" articles rose to the top
+* Optimizing for this metric may not necessarily reflect newsroom priorities 
+
+------------------------------------------------------------------
+
+### In Conclusion:
+* Metrics both reflect and shape the realities they attempt to capture.
+* Building metrics for news requires that we think hard about what the potential side effects thier implementation.
+
+
+
+
+
+
+
+
+   
