@@ -3,15 +3,16 @@ Brian Abelson - @brianabelson <br>Mozilla-Knight OpenNews Fellow<br>_New York Ti
 
 
 ### James Watt / Steam Engine
-# ![james_watt](http://brianabelson.com/hhba2013/img/james_watt.jpg)
+
+# ![james_watt](img/james_watt.jpg)
 
 
 ### Horsepower
-# ![james_watt](http://brianabelson.com/hhba2013/img/horsepower1.gif)
+# ![james_watt](img/horsepower1.gif)
 
 
 ### Horsepower now
-# ![horsepower_ad](http://brianabelson.com/hhba2013/img/ford_focus.jpg)
+# ![horsepower_ad](img/ford_focus.jpg)
 
 
 ### What metrics are for and the effects they have.
@@ -20,7 +21,7 @@ Brian Abelson - @brianabelson <br>Mozilla-Knight OpenNews Fellow<br>_New York Ti
 
 
 ### This guy
-# ![george_bush](http://brianabelson.com/hhba2013/img/george_bush.jpg)
+# ![george_bush](img/george_bush.jpg)
 _"What's an externality?"_
 
 
@@ -31,10 +32,10 @@ _"What's an externality?"_
   - Of course, there have been many consequences:
 
 
-# ![mug_shots](http://brianabelson.com/hhba2013/img/mug_shots.png)
+# ![mug_shots](img/mug_shots.png)
 
 
-# ![buzzfeed](http://brianabelson.com/hhba2013/img/buzzfeed.png)
+# ![buzzfeed](img/buzzfeed.png)
 
 
 ### So how do we construct an alternative?
@@ -53,11 +54,11 @@ _"What's an externality?"_
 
 
 ###### Promotion vs. Performance
-# ![PAR1](http://brianabelson.com/hhba2013/img/PAR1.png)
+# ![PAR1](img/PAR1.png)
 
 
 ##### Predicting Pageviews
-# ![predictions](http://brianabelson.com/hhba2013/img/predictions.gif)
+# ![predictions](img/predictions.gif)
 
 
 ### Potential externalities
